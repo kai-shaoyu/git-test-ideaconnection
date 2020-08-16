@@ -13,4 +13,8 @@ public class test {
         System.out.println("hello test github");
         System.out.println("hello test github");
     }
+
+    public void test(){
+
+    }
 }
