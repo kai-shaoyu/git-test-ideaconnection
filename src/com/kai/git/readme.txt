@@ -1,0 +1,3 @@
+idea
+连接github的时候最好采用https的方式去连接
+ssh的连接方式不是很好用
